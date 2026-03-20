@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "飛べない蝶は夢を見る",
   "base_artist": "トゲナシトゲアリ",
-  "createdAt": "2026-02-09T13:53:11.008369Z",
+  "createdAt": "2026-03-20T15:23:55.047304Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
@@ -11,6 +11,15 @@
       "artist": "トゲナシトゲアリ",
       "has_synced": false,
       "path": "select/pl_01_飛べない蝶は夢を見る_トゲナシトゲアリ.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "飛べない蝶は夢を見る",
+      "artist": "トゲナシトゲアリ",
+      "has_synced": false,
+      "path": "select/localdb_01_飛べない蝶は夢を見る_トゲナシトゲアリ.txt",
+      "repo_name": "78lWvwVLS1c"
     }
   ]
 }
